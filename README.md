@@ -23,10 +23,9 @@ All code and implementations are my own work.
 
 
 ## Related Repositories
-- [my-fullstack-web-dev-journey-v2](https://github.com/ktogre/fullstack-web-dev-journey-v2) - Advanced HTML & CSS, responsive design, and interactive JavaScript websites from using the Odin Project curriculum *(Coming soon)*
+- [my-fullstack-web-dev-journey-v2](https://github.com/ktogre/fullstack-web-dev-journey-v2) - Advanced HTML & CSS, responsive web design, and interactive JavaScript websites using the Odin Project curriculum *(Coming soon)*
 - [my-blockchain-dev-journey-v1](https://github.com/ktogre/my-blockchain-dev-journey-v1) - Remix based smart contracts
-- [my-fullstack-app-dev-journey-v1](https://github.com/ktogre/fullstack-app-dev-journey-v1) - Foundational Flutter widgets for UIs and Dart fundamentals for Command-Line-Interface projects.
-
+- [my-fullstack-app-dev-journey-v1](https://github.com/ktogre/fullstack-app-dev-journey-v1) - Demonstrate the use of the fundamentals of Dart programming language by building CLI apps.
 
 ### Author
 ---
