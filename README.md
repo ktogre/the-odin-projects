@@ -15,8 +15,7 @@ All projects in this repository are for educational purposes and follow The Odin
 [MIT License](./LICENSE)
 
 
-### Acknowledgment
----
+## Acknowledgment
 These projects are built as part of [The Odin Project](https://www.theodinproject.com/) curriculum.
 
 All code and implementations are my own work.
