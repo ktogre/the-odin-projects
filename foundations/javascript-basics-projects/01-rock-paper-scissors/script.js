@@ -1,3 +1,7 @@
+let humanScore = 0;
+let computerScore = 0;
+
+
 function getComputerChoice(rock, paper, scissors, min, max) {
     rock = "rock";
     paper = "paper";
@@ -16,4 +20,9 @@ function getComputerChoice(rock, paper, scissors, min, max) {
     } else {
         return "Computer didn't make a choice";
     }
+}
+
+function getHumanChoice(humanChoice) {
+    humanChoice = prompt("Enter your choice", '');
+    return humanChoice.toLowerCase();
 }
